@@ -2,7 +2,43 @@ fileFormatVersion: 2
 guid: 0af7f0b80cce34e86845cbf831c24ddd
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: -8900374308935857938
+    second: DresserDrawer1|Shader NodetreeAction
+  - first:
+      74: -3416816858644944874
+    second: UnderBedDrawer1|Shader NodetreeAction
+  - first:
+      74: 8223685296996688814
+    second: DresserDrawer2|Shader NodetreeAction
+  - first:
+      74: 6252954539708512472
+    second: DresserDrawer3|Shader NodetreeAction
+  - first:
+      74: 5295325860426217534
+    second: DresserDrawer4|Shader NodetreeAction
+  - first:
+      74: -6874392986378759232
+    second: DresserDrawer5|Shader NodetreeAction
+  - first:
+      74: -6237318665069456943
+    second: DresserDrawer6|Shader NodetreeAction
+  - first:
+      74: -4487933456533270372
+    second: DresserDrawer7|Shader NodetreeAction
+  - first:
+      74: -2981758609732752174
+    second: DresserDrawer8|Shader NodetreeAction
+  - first:
+      74: -368332478721701052
+    second: UnderBedDrawer2|Shader NodetreeAction
+  - first:
+      74: 5150967210715682111
+    second: UnderBedDrawer3|Shader NodetreeAction
+  - first:
+      74: -7861514121964328273
+    second: UnderBedDrawer4|Shader NodetreeAction
   externalObjects: {}
   materials:
     materialImportMode: 2
