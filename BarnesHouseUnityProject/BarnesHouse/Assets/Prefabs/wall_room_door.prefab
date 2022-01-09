@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8171071267282506982
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8804161969121005148}
+  - component: {fileID: 5584869529864438265}
+  - component: {fileID: 7666681785092797747}
+  m_Layer: 0
+  m_Name: wall_room_door
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8804161969121005148
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8171071267282506982}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+  m_LocalPosition: {x: 0, y: 0, z: 3.685}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &5584869529864438265
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8171071267282506982}
+  m_Mesh: {fileID: -3537709356157935800, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+--- !u!23 &7666681785092797747
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8171071267282506982}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -2962753120851784845, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: -6664832339719788786, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: -2562961868342077794, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: -2863520810285092427, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: 6670353337844690760, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: 682450062629052391, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: -6457901854905996272, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: 5727053314219153296, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: 5244568000908975438, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: 3114093843628795284, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: -8997612813822237028, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: 1341646635843031536, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: 1647227360247401651, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: 2109897686288090227, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: 7093520078855857455, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: 727522420654706769, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: -5193833316601217124, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: -5462810585082918509, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: 1708139438307941668, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: -5160263406848314603, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: -6521030024306672355, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: 2057075463639862098, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  - {fileID: -4635937264854448726, guid: 5b8e7f6d5417b45ee81e16f322d7dacc, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
